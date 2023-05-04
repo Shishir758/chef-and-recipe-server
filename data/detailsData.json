@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "John Smith",
-    "picture": "https://images.pexels.com/photos/8951182/pexels-photo-8951182.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "picture": "https://thumbs.dreamstime.com/b/japanese-chef-slicing-raw-fish-sushi-15066367.jpg",
     "years_of_experience": 10,
     "num_recipes": 50,
     "likes": 1000,
@@ -55,7 +55,7 @@
   {
     "id": 2,
     "name": "Jane Doe",
-    "picture": "https://thumbs.dreamstime.com/b/japanese-chef-slicing-raw-fish-sushi-15066367.jpg",
+    "picture": "https://images.pexels.com/photos/8951182/pexels-photo-8951182.jpeg?auto=compress&cs=tinysrgb&w=600",
     "years_of_experience": 8,
     "num_recipes": 30,
     "likes": 750,
@@ -163,7 +163,7 @@
   {
     "id": 4,
     "name": "Sara Johnson",
-    "picture": "https://images.pexels.com/photos/13869904/pexels-photo-13869904.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "picture": "https://images.pexels.com/photos/8951182/pexels-photo-8951182.jpeg?auto=compress&cs=tinysrgb&w=600",
     "years_of_experience": 5,
     "num_recipes": 20,
     "likes": 500,
@@ -216,7 +216,7 @@
   {
     "id": 5,
     "name": "Michael Chen",
-    "picture": "https://images.pexels.com/photos/8951182/pexels-photo-8951182.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "picture": "https://www.cktravels.com/wp-content/uploads/2020/12/what-to-eat-in-japan-1150x818.jpg",
     "years_of_experience": 12,
     "num_recipes": 60,
     "likes": 1500,
