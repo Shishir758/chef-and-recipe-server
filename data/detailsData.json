@@ -33,20 +33,19 @@
         "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
         "rating": 3.5
       },
-
-    {
-      "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
-      "name": "Chicken Soup",
-      "ingredients": [
-        "4 cups water",
-        "1/4 cup dried wakame seaweed",
-        "1/2 block silken tofu, diced",
-        "2 tablespoons miso paste",
-        "2 green onions, thinly sliced"
-      ],
-      "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
-      "rating": 4.25
-    }
+      {
+        "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
+        "name": "Chicken Soup",
+        "ingredients": [
+          "4 cups water",
+          "1/4 cup dried wakame seaweed",
+          "1/2 block silken tofu, diced",
+          "2 tablespoons miso paste",
+          "2 green onions, thinly sliced"
+        ],
+        "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
+        "rating": 4.25
+      }
     ],
     "foodName": "Sushi",
     "description": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold rice served with a garnish of vegetables, egg, or raw seafood.",
@@ -86,26 +85,22 @@
         "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
         "rating": 3.75
       },
-
-    {
-      "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
-      "name": "Miso Soup",
-      "ingredients": [
-        "4 cups water",
-        "1/4 cup dried wakame seaweed",
-        "1/2 block silken tofu, diced",
-        "2 tablespoons miso paste",
-        "2 green onions, thinly sliced"
-      ],
-      "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
-      "rating": 4.0
-    }
+      {
+        "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
+        "name": "Miso Soup",
+        "ingredients": [
+          "4 cups water",
+          "1/4 cup dried wakame seaweed",
+          "1/2 block silken tofu, diced",
+          "2 tablespoons miso paste",
+          "2 green onions, thinly sliced"
+        ],
+        "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
+        "rating": 4.0
+      }
     ],
-
-
     "foodName": "Ramen",
     "description": "Ramen is a noodle soup dish that originated in China but has become very popular in Japan. The soup is made from a meat or fish broth and is usually flavored with soy sauce or miso. It is often served with toppings such as sliced pork, egg, and green onion."
-
   },
   {
     "id": 3,
@@ -113,7 +108,7 @@
     "picture": "https://st2.depositphotos.com/3261171/7086/i/450/depositphotos_70860003-stock-photo-cooking-sushi-rolls-with-shrimps.jpg",
     "years_of_experience": 15,
     "num_recipes": 100,
-    "likes": 2000,
+    "likes": 1200,
     "recipes": [
       {
         "picturefood": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_c-Gf6yynk0ENKRjajfZGHmmkfOfHY0FPg&usqp=CAU",
@@ -141,22 +136,20 @@
         "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
         "rating": 4.0
       },
-
-    {
-      "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
-      "name": "Chicken Soup",
-      "ingredients": [
-        "4 cups water",
-        "1/4 cup dried wakame seaweed",
-        "1/2 block silken tofu, diced",
-        "2 tablespoons miso paste",
-        "2 green onions, thinly sliced"
-      ],
-      "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
-      "rating": 4.0
-    }
+      {
+        "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
+        "name": "Chicken Soup",
+        "ingredients": [
+          "4 cups water",
+          "1/4 cup dried wakame seaweed",
+          "1/2 block silken tofu, diced",
+          "2 tablespoons miso paste",
+          "2 green onions, thinly sliced"
+        ],
+        "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
+        "rating": 4.0
+      }
     ],
-
     "foodName": "Mochi",
     "description": "Mochi is a sweet and chewy rice cake made from glutinous rice. It can be flavored with various ingredients such as red bean paste, green tea, and strawberry. Mochi is often served as a dessert or snack."
   },
@@ -166,7 +159,7 @@
     "picture": "https://images.pexels.com/photos/8951182/pexels-photo-8951182.jpeg?auto=compress&cs=tinysrgb&w=600",
     "years_of_experience": 5,
     "num_recipes": 20,
-    "likes": 500,
+    "likes": 550,
     "recipes": [
       {
         "picturefood": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_c-Gf6yynk0ENKRjajfZGHmmkfOfHY0FPg&usqp=CAU",
@@ -194,22 +187,20 @@
         "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
         "rating": 4.0
       },
-
-    {
-      "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
-      "name": "Chicken Soup",
-      "ingredients": [
-        "4 cups water",
-        "1/4 cup dried wakame seaweed",
-        "1/2 block silken tofu, diced",
-        "2 tablespoons miso paste",
-        "2 green onions, thinly sliced"
-      ],
-      "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
-      "rating": 5.0
-    }
+      {
+        "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
+        "name": "Chicken Soup",
+        "ingredients": [
+          "4 cups water",
+          "1/4 cup dried wakame seaweed",
+          "1/2 block silken tofu, diced",
+          "2 tablespoons miso paste",
+          "2 green onions, thinly sliced"
+        ],
+        "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
+        "rating": 5.0
+      }
     ],
-
     "foodName": "Okonomiyaki",
     "description": "Okonomiyaki is a savory pancake made with flour, eggs, shredded cabbage, and various toppings such as sliced pork, shrimp, and squid. It is often served with okonomiyaki sauce (similar to Worcestershire sauce), mayonnaise, and dried bonito flakes."
   },
@@ -219,7 +210,7 @@
     "picture": "https://www.cktravels.com/wp-content/uploads/2020/12/what-to-eat-in-japan-1150x818.jpg",
     "years_of_experience": 12,
     "num_recipes": 60,
-    "likes": 1500,
+    "likes": 1000,
     "recipes": [
       {
         "picturefood": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_c-Gf6yynk0ENKRjajfZGHmmkfOfHY0FPg&usqp=CAU",
@@ -247,22 +238,20 @@
         "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
         "rating": 4.0
       },
-
-    {
-      "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
-      "name": "Miso Soup",
-      "ingredients": [
-        "4 cups water",
-        "1/4 cup dried wakame seaweed",
-        "1/2 block silken tofu, diced",
-        "2 tablespoons miso paste",
-        "2 green onions, thinly sliced"
-      ],
-      "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
-      "rating": 4.2
-    }
+      {
+        "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
+        "name": "Miso Soup",
+        "ingredients": [
+          "4 cups water",
+          "1/4 cup dried wakame seaweed",
+          "1/2 block silken tofu, diced",
+          "2 tablespoons miso paste",
+          "2 green onions, thinly sliced"
+        ],
+        "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
+        "rating": 4.2
+      }
     ],
-
     "foodName": "Udon",
     "description": "Udon is a type of thick and chewy noodle made from wheat flour. It is often served in a hot soup made from dashi (fish stock), soy sauce, and mirin (sweet rice wine). Udon can be topped with various ingredients such as tempura, sliced beef, and green onion."
   },
@@ -272,7 +261,7 @@
     "picture": "https://thumbs.dreamstime.com/b/japanese-chef-slicing-raw-fish-sushi-15066367.jpg",
     "years_of_experience": 7,
     "num_recipes": 25,
-    "likes": 600,
+    "likes": 500,
     "recipes": [
       {
         "picturefood": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_c-Gf6yynk0ENKRjajfZGHmmkfOfHY0FPg&usqp=CAU",
@@ -300,24 +289,21 @@
         "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
         "rating": 4.0
       },
-
-    {
-      "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
-      "name": "Chicken Soup",
-      "ingredients": [
-        "4 cups water",
-        "1/4 cup dried wakame seaweed",
-        "1/2 block silken tofu, diced",
-        "2 tablespoons miso paste",
-        "2 green onions, thinly sliced"
-      ],
-      "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
-      "rating": 4.0
-    }
+      {
+        "picturefood": "https://hips.hearstapps.com/hmg-prod/images/200518-delish-seo-chicken-katsu-hand-2-14652-eb-1590516686.jpg",
+        "name": "Chicken Soup",
+        "ingredients": [
+          "4 cups water",
+          "1/4 cup dried wakame seaweed",
+          "1/2 block silken tofu, diced",
+          "2 tablespoons miso paste",
+          "2 green onions, thinly sliced"
+        ],
+        "cookingMethod": "1. In a medium pot, bring the water to a boil. Add the dried wakame and reduce the heat to low. Simmer for 5 minutes.\n2. Add the diced tofu and simmer for an additional 5 minutes.\n3. In a small bowl, whisk together the miso paste and 1/4 cup of hot water until smooth. Add the miso mixture to the pot and stir to combine.\n4. Serve the miso soup hot, garnished with thinly sliced green onions.",
+        "rating": 4.0
+      }
     ],
-
     "foodName": "Tempura",
     "description": "Tempura is a dish of battered and deep-fried seafood or vegetables. It is often served as an appetizer or snack and can be enjoyed with dipping sauce or salt. Tempura is known for its light and crispy texture."
   }
 ]
-  
